@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rmemegenerator/static/css/main.63abe543.chunk.css",
+    "main.js": "/rmemegenerator/static/js/main.a02c676e.chunk.js",
+    "main.js.map": "/rmemegenerator/static/js/main.a02c676e.chunk.js.map",
+    "runtime-main.js": "/rmemegenerator/static/js/runtime-main.b44d22a6.js",
+    "runtime-main.js.map": "/rmemegenerator/static/js/runtime-main.b44d22a6.js.map",
+    "static/js/2.27405684.chunk.js": "/rmemegenerator/static/js/2.27405684.chunk.js",
+    "static/js/2.27405684.chunk.js.map": "/rmemegenerator/static/js/2.27405684.chunk.js.map",
+    "index.html": "/rmemegenerator/index.html",
+    "precache-manifest.e2a0730315ba83c1e5f03200bc96b7bb.js": "/rmemegenerator/precache-manifest.e2a0730315ba83c1e5f03200bc96b7bb.js",
+    "service-worker.js": "/rmemegenerator/service-worker.js",
+    "static/css/main.63abe543.chunk.css.map": "/rmemegenerator/static/css/main.63abe543.chunk.css.map",
+    "static/js/2.27405684.chunk.js.LICENSE.txt": "/rmemegenerator/static/js/2.27405684.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44d22a6.js",
+    "static/js/2.27405684.chunk.js",
+    "static/css/main.63abe543.chunk.css",
+    "static/js/main.a02c676e.chunk.js"
+  ]
+}
